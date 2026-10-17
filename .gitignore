@@ -1,0 +1,5 @@
+.venv
+venv
+.env
+cookie-test.py
+test.py
